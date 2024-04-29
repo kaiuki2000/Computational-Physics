@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "TVec.C": "cpp",
+        "Vec.C": "cpp"
+    }
+}

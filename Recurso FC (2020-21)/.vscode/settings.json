@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "BoundaryConditionsTesting.C": "cpp",
+        "prob1a.C": "cpp",
+        "prob1b.C": "cpp",
+        "prob2.C": "cpp",
+        "TesteProb1a.C": "cpp",
+        "BoundaryConditionsTesting2.C": "cpp",
+        "EulerPredictorCorrectorLeapFrogTesting.C": "cpp",
+        "Exercicio74.C": "cpp",
+        "RKTesting.C": "cpp",
+        "rCanhao.C": "cpp",
+        "QuedaLivre.C": "cpp",
+        "IntegralDuploMC.C": "cpp",
+        "TesteProb1b.C": "cpp",
+        "Rprojectile.C": "cpp",
+        "Projectiles.C": "cpp",
+        "rIntegralMC.C": "cpp",
+        "prob1.C": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "IntegratorMC.C": "cpp",
+        "Histogramas2.C": "cpp",
+        "rootlogon.C": "cpp",
+        "Histogramas.C": "cpp"
+    }
+}
